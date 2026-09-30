@@ -29,7 +29,7 @@ This is my profile project. It contains :
    Run `npm install` then `npm start`
 
 ## Lessons Learned
-What did you learn while building this project?
+Images must be copied from their location
 
 ## Challenges Faced
 - **Problem:** Images had not displayed on the website
