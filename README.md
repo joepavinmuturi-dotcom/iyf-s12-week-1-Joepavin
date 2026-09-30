@@ -32,7 +32,6 @@ This is my profile project. It contains :
 What did you learn while building this project?
 
 ## Challenges Faced
-What problems did you encounter and how did you solve them?
+- **Problem:** Images had not displayed on the website
+- **Solution:** I changed the link extension from .jpg to .jpeg
 
-## Live Demo (if deployed)
-[View Live Demo](C:/Users/Administrator/Desktop/IYF%20We%20Can/Joepavin.html)
